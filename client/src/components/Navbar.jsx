@@ -1,7 +1,7 @@
 import React from "react";
 import { HiMenuAlt4 } from "react-icons/hi";
 import { AiOutlineClose } from "react-icons/ai";
-
+import Link from "react-dom"
 import logo from "../../images/logo.jpg";
 
 const NavBarItem = ({ title, classprops }) => (
@@ -17,9 +17,18 @@ const Navbar = () => {
         <img src={logo} alt="logo" className="w-32 cursor-pointer" />
       </div>
       <ul className="text-white md:flex hidden list-none flex-row justify-between items-center flex-initial">
-        {["Market", "Exchange", "Tutorials", "Wallets"].map((item, index) => (
-          <NavBarItem key={item + index} title={item} />
-        ))}
+        <a href ="https://zerion.io/" target = "_blank">
+      <li className="mx-4 cursor-pointer">Market</li>
+      </a>
+      <a href ="https://adityastark7.github.io/LiquorSwap/" target = "_blank">
+      <li className="mx-4 cursor-pointer">LiquorSwap</li>
+      </a>
+      <a href ="https://etherscan.io/tokens" target = "_blank">
+      <li className="mx-4 cursor-pointer">Wallets</li>
+      </a>
+      <a href ="https://www.youtube.com/" target = "_blank">
+      <li className="mx-4 cursor-pointer">Tutorials</li>
+      </a>
         <li className="bg-[#2952e3] py-2 px-7 mx-4 rounded-full cursor-pointer hover:bg-[#2546bd]">
           Login
         </li>
