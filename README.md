@@ -8,8 +8,8 @@
 -->
 
 <div align="center">
-  <a href="https://github.com/github_username/AgroConnect">
-    <img src="https://www.linkpicture.com/q/Annotation-2021-10-29-083837.png"  width="1000" >
+  <a href="https://github.com/AdityaStark7/OSDHACK">
+    <img src="https://github.com/AdityaStark7/OSDHACK/blob/main/img/1.jpg"  width="1000" >
   </a>  
 </div>
 <br>
