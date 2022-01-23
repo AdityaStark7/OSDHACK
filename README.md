@@ -37,7 +37,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/AdityaStark7/OSDHACK">
-    <img src="https://github.com/AdityaStark7/OSDHACK/blob/main/img/1.jpg" alt="Logo" width="250" >
+    <img src="https://github.com/AdityaStark7/OSDHACK/blob/main/img/liquor.png" alt="Logo" width="250" >
   </a>  
 <h3 align="center">AgroConnect</h3>
 
