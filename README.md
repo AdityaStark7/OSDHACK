@@ -201,7 +201,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 
-Project Link: [AgroConnect](https://github.com/AdityaStark7/OSDHACK)
+Project Link: [LIQUOR](https://github.com/AdityaStark7/OSDHACK)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
