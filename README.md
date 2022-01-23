@@ -62,8 +62,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Developing a decentralised marketplace service for the crop market using blockchain embedded in a multifunctional app wherein, we can track the crops as well.
-</a>
+      <a href="#about-the-project">Developing a seamless coin-swapping and P2P transfer experience for crypto users.</a>
       <ul>
         <li><a href="#built-with">Built With</a>
         </li>
@@ -90,12 +89,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-### Allowing transaction in a Digital Currency. 
-In our solution we are using Ethereum for transaction in the given project. The farmers can create an NFT of the contract as a proof of transaction and consumers can purchase those tokens.
-### Blockchain Based Tracking
-As we are using blockchain, it is easy to track the product and its ownership. This leads to eradication of hoarding of crops, helps us calculate the optimum delivery time and also works as a feedback mechanism in case of bad quality. 
-### Other Functionalities
-We provide other assistance to the farmer in multiple ways which includes Agro-News, crop disease disease prediction and yield quality predictor.
+<img src="https://github.com/AdityaStark7/OSDHACK/blob/main/img/3.jpg"  width="1000" >
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -103,11 +97,10 @@ We provide other assistance to the farmer in multiple ways which includes Agro-N
 
 ### Built With
 
-* [Tensorflow](https://tensorflow.org/)
+* [ViteJS](https://vitejs.dev/)
 * [React.js](https://reactjs.org/)
 * [Solidity](https://docs.soliditylang.org/en/v0.8.9/)
-* [Hardhat](https://hardhat.org/)
-* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+* [MoralisWeb3](https://moralis.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -129,20 +122,19 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Run npx hardhat node
+3. Run npx hardhat node
    ```sh
    npx hardhat node
    ```
-5. In a new terminal run this command
+4. In a new terminal run this command
    ```sh
    npx hardhat run scripts/deploy.js --network localhost
    ```
