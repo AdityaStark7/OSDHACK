@@ -160,12 +160,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] NFT MarketPlace
-- [] Blockchain Development
-- [] Machine and Deep Learning Models
-    - [] Solidity and Smart Contracts
+- [] Designing a coinSwapping Protocol
+- [] Working on the P2P Transfer Protocol
+- [] Designing Rest of the UI and integration
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/AdityaStark7/OSDHACK/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -202,7 +201,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 
-Project Link: [AgroConnect](https://github.com/AdityaTeltia/AgroConnect)
+Project Link: [AgroConnect](https://github.com/AdityaStark7/OSDHACK)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
