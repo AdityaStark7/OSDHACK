@@ -39,7 +39,7 @@
   <a href="https://github.com/AdityaStark7/OSDHACK">
     <img src="https://github.com/AdityaStark7/OSDHACK/blob/main/img/liquor.png" alt="Logo" width="250" >
   </a>  
-<h3 align="center">AgroConnect</h3>
+<h3 align="center">Liquor</h3>
 
   <p align="center">
     project_description
