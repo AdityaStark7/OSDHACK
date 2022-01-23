@@ -36,22 +36,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/AdityaTeltia/AgroConnect">
-    <img src="https://www.linkpicture.com/q/logo-1.png" alt="Logo" width="250" >
+  <a href="https://github.com/AdityaStark7/OSDHACK">
+    <img src="https://github.com/AdityaStark7/OSDHACK/blob/main/img/1.jpg" alt="Logo" width="250" >
   </a>  
 <h3 align="center">AgroConnect</h3>
 
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/AdityaTeltia/AgroConnect"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AdityaStark7/OSDHACK"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AdityaTeltia/AgroConnect">View Demo</a>
+    <a href="https://github.com/AdityaStark7/OSDHACK">View Demo</a>
     ·
-    <a href="https://github.com/AdityaTeltia/AgroConnect/issues">Report Bug</a>
+    <a href="https://github.com/AdityaStark7/OSDHACK/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AdityaTeltia/AgroConnect/issues">Request Feature</a>
+    <a href="https://github.com/AdityaStark7/OSDHACK/issues">Request Feature</a>
   </p>
 </div>
 
