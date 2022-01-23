@@ -101,6 +101,8 @@
 * [React.js](https://reactjs.org/)
 * [Solidity](https://docs.soliditylang.org/en/v0.8.9/)
 * [MoralisWeb3](https://moralis.io/)
+* [Metamask](https://metamask.io)
+* [Ropsnet Test Network](https://ropsten.etherscan.io)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -204,18 +206,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Project Link: [LIQUOR](https://github.com/AdityaStark7/OSDHACK)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
